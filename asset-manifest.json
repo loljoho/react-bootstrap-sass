@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-bootstrap-sass/static/css/main.1ef0a131.chunk.css",
+    "main.css": "/react-bootstrap-sass/static/css/main.5ccda44e.chunk.css",
     "main.js": "/react-bootstrap-sass/static/js/main.ee56dd13.chunk.js",
     "main.js.map": "/react-bootstrap-sass/static/js/main.ee56dd13.chunk.js.map",
     "runtime-main.js": "/react-bootstrap-sass/static/js/runtime-main.161c96d3.js",
@@ -8,15 +8,15 @@
     "static/js/2.662a4f25.chunk.js": "/react-bootstrap-sass/static/js/2.662a4f25.chunk.js",
     "static/js/2.662a4f25.chunk.js.map": "/react-bootstrap-sass/static/js/2.662a4f25.chunk.js.map",
     "index.html": "/react-bootstrap-sass/index.html",
-    "precache-manifest.9860a368c76f5d5b7feb0dac04bc17d9.js": "/react-bootstrap-sass/precache-manifest.9860a368c76f5d5b7feb0dac04bc17d9.js",
+    "precache-manifest.8f0b5890ad02ac075c7fc3a2c82a5001.js": "/react-bootstrap-sass/precache-manifest.8f0b5890ad02ac075c7fc3a2c82a5001.js",
     "service-worker.js": "/react-bootstrap-sass/service-worker.js",
-    "static/css/main.1ef0a131.chunk.css.map": "/react-bootstrap-sass/static/css/main.1ef0a131.chunk.css.map",
+    "static/css/main.5ccda44e.chunk.css.map": "/react-bootstrap-sass/static/css/main.5ccda44e.chunk.css.map",
     "static/js/2.662a4f25.chunk.js.LICENSE": "/react-bootstrap-sass/static/js/2.662a4f25.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.161c96d3.js",
     "static/js/2.662a4f25.chunk.js",
-    "static/css/main.1ef0a131.chunk.css",
+    "static/css/main.5ccda44e.chunk.css",
     "static/js/main.ee56dd13.chunk.js"
   ]
 }
